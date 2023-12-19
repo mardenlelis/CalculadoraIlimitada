@@ -1,7 +1,6 @@
 #Calculadora de Precisão Ilimitada
 
-Este programa é uma calculadora que pode lidar com números de precisão ilimitada. Ele lê os valores de dois arquivos textos distintos, aqui chamado de V1 e V2 respectivamente
-e realiza operações matemáticas básicas, como adição e multiplicação para salvar em um terceiro arquivo, aqui chamado de V3.txt.
+Este programa é uma calculadora que pode lidar com números de precisão ilimitada. Ele lê os valores de dois arquivos textos distintos, aqui chamado de V1 e V2 respectivamente e realiza operações matemáticas básicas, como adição e multiplicação para salvar em um terceiro arquivo, aqui chamado de V3.txt.
 
 Estrutura do Programa
 
